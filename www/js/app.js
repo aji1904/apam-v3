@@ -4,8 +4,7 @@ const apiUrl = 'http://localhost/login/api/'; // API Server URL
 const website_upload = 'http://localhost/login/uploads/'; // Website Uploads Server URL
 const webapps_url = 'http://localhost/webapps/'; // Webapps Server URL
 const token = '#####'; // Token code for security purpose
-const startDate = 0; // Start date of day for registration
-const endDate = 7; // End date of day for registration
+const startDate = 0; // Start date of day for registrationconst endDate = 7; // End date of day for registration
 const debug = 0; // Ganti menjadi 0 sebelum build di phonegap.com
 const whatsapp = 6282111111; // nomor whatsapp
 const telepon = 62711111111; // nomor telepon
